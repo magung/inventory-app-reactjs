@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/inventory-app-reactjs/static/css/main.46b63371.chunk.css",
+    "main.js": "/inventory-app-reactjs/static/js/main.8c265c85.chunk.js",
+    "main.js.map": "/inventory-app-reactjs/static/js/main.8c265c85.chunk.js.map",
+    "runtime~main.js": "/inventory-app-reactjs/static/js/runtime~main.8419bd76.js",
+    "runtime~main.js.map": "/inventory-app-reactjs/static/js/runtime~main.8419bd76.js.map",
+    "static/js/2.cb7ce51f.chunk.js": "/inventory-app-reactjs/static/js/2.cb7ce51f.chunk.js",
+    "static/js/2.cb7ce51f.chunk.js.map": "/inventory-app-reactjs/static/js/2.cb7ce51f.chunk.js.map",
+    "index.html": "/inventory-app-reactjs/index.html",
+    "precache-manifest.a0a2b4aa5cfbe1829fbb04e4ef89fbff.js": "/inventory-app-reactjs/precache-manifest.a0a2b4aa5cfbe1829fbb04e4ef89fbff.js",
+    "service-worker.js": "/inventory-app-reactjs/service-worker.js",
+    "static/css/main.46b63371.chunk.css.map": "/inventory-app-reactjs/static/css/main.46b63371.chunk.css.map",
+    "static/media/404.svg": "/inventory-app-reactjs/static/media/404.6695af99.svg",
+    "static/media/App.css": "/inventory-app-reactjs/static/media/undraw_deliveries_131a.a7d20743.svg"
+  }
+}
